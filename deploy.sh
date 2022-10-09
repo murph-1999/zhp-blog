@@ -9,7 +9,7 @@ npm run build
 cd docs/.vuepress/dist
 
 # 创建git的本地仓库，提交修改
-# git init
+git init
 git add -A
 git commit -m 'deploy'
 
